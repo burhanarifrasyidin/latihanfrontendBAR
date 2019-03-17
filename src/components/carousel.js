@@ -8,17 +8,17 @@ import {
 
 const items = [
   {
-    src: 'https://ecs7.tokopedia.net/img/cache/1242/banner/2019/2/28/25618007/25618007_76ff7724-03c3-48c0-9372-1691a27f3f3e.jpg',
+    src: 'https://serbasepeda.s3-ap-southeast-1.amazonaws.com/2018/10/Polygon-480.jpg',
     altText: 'MaretMantap',
     caption: 'MaretMantap'
   },
   {
-    src: 'https://ecs7.tokopedia.net/img/cache/1242/banner/2019/3/1/25618007/25618007_bdc7c45a-7f39-4117-97ff-3bfcee316b11.jpg',
+    src: 'http://icubic.info/demo-aja/serbasepeda/wp-content/uploads/2016/11/PACIFIC.jpg',
     altText: 'MaretMantap',
     caption: 'MaretMantap'
   },
   {
-    src: 'https://ecs7.tokopedia.net/img/cache/1242/banner/2019/2/28/25618007/25618007_fd8e86f9-a99b-48e8-8fa4-3dfd91cbbdc5.jpg',
+    src: 'https://serbasepeda.s3-ap-southeast-1.amazonaws.com/2018/10/Thrill-480.png',
     altText: 'MaretMantap',
     caption: 'MaretMantap'
   }
@@ -70,7 +70,7 @@ class CarouselKu extends Component {
           onExited={this.onExited}
           key={item.src}
         >
-          <img src={item.src} alt={item.altText} height='200px' width='820' />
+          <img src={item.src} alt={item.altText} height='250px' width='820' />
           {/* <CarouselCaption captionText={item.caption} captionHeader={item.caption} /> */}
         </CarouselItem>
       );

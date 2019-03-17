@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Burhan",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "Andi",
+      "password": "rahasia123",
+      "role": "user"
+    },
+    {
+      "username": "burhan.d3mits@gmail.com",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nama": "sepeda polygon xtrada",
+      "harga": 5500000,
+      "discount": 10,
+      "deskripsi": "Adventure Starts Here! Sepeda Polygon Xtrada 5 merupakan sepeda hardtail yang sangat cocok untuk rider yang mencari jati diri mereka",
+      "img": "https://www.rodalink.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/P/A/PA00216.jpg",
+      "category": "XC"
+    },
+    {
+      "id": 2,
+      "nama": "sepeda polygon monarch",
+      "harga": 2250000,
+      "discount": 0,
+      "deskripsi": "Polygon Sepeda Monarch tidak pernah berhenti menunjukkan keunggulannya sebagai salah satu sepeda terlaris dalam kategori sepeda gunung XC Sport.",
+      "img": "https://www.rodalink.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/5/0/502322.png",
+      "category": "XC"
+    },
+    {
+      "id": 3,
+      "nama": "sepeda polygon premier",
+      "harga": 3800000,
+      "discount": 5,
+      "deskripsi": "Polygon Sepeda Premier tidak pernah berhenti menunjukkan keunggulannya sebagai salah satu sepeda terlaris dalam kategori sepeda gunung XC Sport.",
+      "img": "https://www.rodalink.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/5/0/502086.jpg",
+      "category": "XC"
+    },
+    {
+      "id": 4,
+      "nama": "sepeda polygon rays",
+      "harga": 4800000,
+      "discount": 5,
+      "deskripsi": "Polygon Sepeda Rays 2015 tidak pernah berhenti menunjukkan keunggulannya sebagai salah satu sepeda terlaris dalam kategori sepeda gunung XC Sport.",
+      "img": "https://www.rodalink.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/5/0/501934001.jpg",
+      "category": "XC"
+    },
+    {
+      "id": 5,
+      "nama": "sepeda polygon rays",
+      "harga": 4150000,
+      "discount": 10,
+      "deskripsi": "Polygon Sepeda Rays 2015 tidak pernah berhenti menunjukkan keunggulannya sebagai salah satu sepeda terlaris dalam kategori sepeda gunung XC Sport.",
+      "img": "https://www.rodalink.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/5/0/501934001.jpg",
+      "category": "XC"
+    },
+    {
+      "id": 6,
+      "nama": "sepeda polygon vander 3",
+      "harga": 5945000,
+      "discount": 15,
+      "deskripsi": "Polygon Sepeda Vander 3 tidak pernah berhenti menunjukkan keunggulannya sebagai salah satu sepeda terlaris dalam kategori sepeda gunung XC Sport.",
+      "img": "https://www.rodalink.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/5/0/501673.png",
+      "category": "XC"
+    }
+  ]
+}
